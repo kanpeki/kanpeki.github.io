@@ -1,0 +1,16 @@
+body {
+  margin-top: 60px;
+}
+
+.jumbotron .img-caption {
+	font-size: 14px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+@media (max-width: 720px) {
+	.content-area {
+		max-width: 100%;
+		margin: 0 auto;
+	}
+}
